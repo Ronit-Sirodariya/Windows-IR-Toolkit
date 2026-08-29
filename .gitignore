@@ -1,0 +1,14 @@
+# Generated IR evidence
+output/*
+
+# Keep the output directory in the repository
+!output/.gitkeep
+
+# PowerShell temporary files
+*.tmp
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
