@@ -696,32 +696,4 @@ This project provides practical experience with:
 
 ---
 
-# Responsible Use
 
-This project is intended for:
-
-- Authorized incident response
-- Defensive security research
-- Security education
-- Windows security testing
-- Cybersecurity portfolio development
-
-Only run the toolkit on systems that you are authorized to investigate.
-
----
-
-# Disclaimer
-
-This project is provided for educational and defensive security purposes.
-
-The toolkit does not guarantee detection of malicious activity and should
-not be treated as a complete forensic investigation platform.
-
-Findings should be validated using additional evidence and appropriate
-investigative procedures.
-
----
-
-# License
-
-This project is intended to be released under the MIT License.
